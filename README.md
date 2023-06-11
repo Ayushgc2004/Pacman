@@ -1,2 +1,1 @@
-# badi-gold
-baap hai hm sab ke 
+This repository is for AI project. 
