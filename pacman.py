@@ -11,6 +11,7 @@ fps = 60
 font = pygame.font.Font('freesansbold.ttf',20)
 level = b.board
 color = 'blue'
+print("hello world")
 color2 = 'red'
 run = True
 PI = math.pi
