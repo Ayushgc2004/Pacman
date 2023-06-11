@@ -12,6 +12,7 @@ font = pygame.font.Font('freesansbold.ttf',20)
 level = b.board
 color = 'blue'
 print("hello world")
+print("hi)
 color2 = 'red'
 run = True
 PI = math.pi
